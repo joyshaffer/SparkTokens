@@ -1,0 +1,83 @@
+/**
+ * Do not edit directly
+ * Generated on Tue, 18 Oct 2022 15:41:40 GMT
+ */
+
+:root {
+  --gux-token-set-order-0: global;
+  --gux-basics-color-blue-10: #030d26;
+  --gux-basics-color-blue-20: #071d55;
+  --gux-basics-color-blue-30: #0b2e84;
+  --gux-basics-color-blue-40: #0f3eb2;
+  --gux-basics-color-blue-50: #134fe1;
+  --gux-basics-color-blue-60: #396dee;
+  --gux-basics-color-blue-70: #6990f2;
+  --gux-basics-color-blue-80: #98b3f6;
+  --gux-basics-color-blue-90: #c7d5fa;
+  --gux-basics-color-green-10: #092a1c;
+  --gux-basics-color-green-20: #135338;
+  --gux-basics-color-green-30: #1c7d55;
+  --gux-basics-color-green-40: #26a671;
+  --gux-basics-color-green-50: #2fd08d;
+  --gux-basics-color-green-60: #57d9a3;
+  --gux-basics-color-green-70: #82e3bb;
+  --gux-basics-color-green-80: #acecd1;
+  --gux-basics-color-green-90: #d5f6e8;
+  --gux-basics-color-red-10: #240300;
+  --gux-basics-color-red-20: #560800;
+  --gux-basics-color-red-30: #890c01;
+  --gux-basics-color-red-40: #bc1001;
+  --gux-basics-color-red-50: #f01501;
+  --gux-basics-color-red-60: #fe3725;
+  --gux-basics-color-red-70: #fe6557;
+  --gux-basics-color-red-80: #ff948a;
+  --gux-basics-color-red-90: #ffc2bd;
+  --gux-basics-color-red-100: #fff1f0;
+  --gux-basics-color-orange-10: #331300;
+  --gux-basics-color-orange-20: #662600;
+  --gux-basics-color-orange-30: #cc4b00;
+  --gux-basics-color-orange-40: #ff5e00;
+  --gux-basics-color-orange-50: #ff7e33;
+  --gux-basics-color-orange-60: #ff9f66;
+  --gux-basics-color-orange-70: #ffbf99;
+  --gux-basics-color-orange-80: #ffdfcc;
+  --gux-basics-color-yellow-10: #332700;
+  --gux-basics-color-yellow-20: #664e00;
+  --gux-basics-color-yellow-30: #997600;
+  --gux-basics-color-yellow-40: #cc9d00;
+  --gux-basics-color-yellow-50: #ffc400;
+  --gux-basics-color-yellow-60: #ffd033;
+  --gux-basics-color-yellow-70: #ffdc66;
+  --gux-basics-color-yellow-80: #ffe799;
+  --gux-basics-color-yellow-90: #fff3cc;
+  --gux-basics-color-purple-10: #0f071d;
+  --gux-basics-color-purple-20: #251046;
+  --gux-basics-color-purple-30: #3a1a70;
+  --gux-basics-color-purple-40: #502499;
+  --gux-basics-color-purple-50: #652dc1;
+  --gux-basics-color-purple-60: #814dd6;
+  --gux-basics-color-purple-70: #9e77df;
+  --gux-basics-color-purple-80: #bba0e9;
+  --gux-basics-color-purple-90: #d9c9f2;
+  --gux-basics-color-purple-100: #f6f3fc;
+  --gux-basics-color-teal-10: #011a1d;
+  --gux-basics-color-teal-20: #03434d;
+  --gux-basics-color-teal-30: #056f80;
+  --gux-basics-color-teal-40: #079ab1;
+  --gux-basics-color-teal-50: #09c4e2;
+  --gux-basics-color-teal-60: #27dbf7;
+  --gux-basics-color-teal-70: #58e3f8;
+  --gux-basics-color-teal-80: #89ebfa;
+  --gux-basics-color-teal-90: #baf3fc;
+  --gux-basics-color-teal-100: #ebfcfe;
+  --gux-basics-color-grey-10: #14161a;
+  --gux-basics-color-grey-20: #2a2f37;
+  --gux-basics-color-grey-30: #404754;
+  --gux-basics-color-grey-40: #576070;
+  --gux-basics-color-grey-50: #6d798d;
+  --gux-basics-color-grey-60: #8993a4;
+  --gux-basics-color-grey-70: #a6adba;
+  --gux-basics-color-grey-80: #c3c8d0;
+  --gux-basics-color-grey-90: #dfe2e7;
+  --gux-basics-color-grey-100: #fcfcfd;
+}
